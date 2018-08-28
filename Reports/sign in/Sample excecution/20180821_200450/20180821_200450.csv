@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Sample excecution,Chrome 68.0.3440.106,,2018-08-21 20:04:57,2018-08-21 20:06:11,1m - 14.534s,PASSED
+,,,,,,
+Test Cases/sign in/simple sign in,Chrome 68.0.3440.106,sign using the existing account,2018-08-21 20:05:00,2018-08-21 20:06:11,1m - 11.467s,PASSED
+openBrowser,Chrome 68.0.3440.106,,2018-08-21 20:05:02,2018-08-21 20:06:05,1m - 3.642s,PASSED
+Statement - url = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(),Chrome 68.0.3440.106,,2018-08-21 20:06:05,2018-08-21 20:06:05,0.039s,PASSED
+maximizeWindow,Chrome 68.0.3440.106,,2018-08-21 20:06:05,2018-08-21 20:06:07,1.383s,PASSED
+"Statement - url.contentEquals(""https://www.fashmates.com00/"")",Chrome 68.0.3440.106,,2018-08-21 20:06:07,2018-08-21 20:06:07,0.003s,PASSED
+"Statement - println(""success"")",Chrome 68.0.3440.106,,2018-08-21 20:06:07,2018-08-21 20:06:07,0.009s,PASSED
+waitForElementVisible,Chrome 68.0.3440.106,,2018-08-21 20:06:07,2018-08-21 20:06:09,2.623s,PASSED
+closeBrowser,Chrome 68.0.3440.106,,2018-08-21 20:06:09,2018-08-21 20:06:11,1.947s,PASSED

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Sample excecution,Firefox 61.0,,2018-08-21 20:04:58,2018-08-21 20:06:40,1m - 41.833s,PASSED
+,,,,,,
+Test Cases/sign in/simple sign in,Firefox 61.0,sign using the existing account,2018-08-21 20:05:01,2018-08-21 20:06:40,1m - 38.411s,PASSED
+openBrowser,Firefox 61.0,,2018-08-21 20:05:03,2018-08-21 20:06:35,1m - 32.092s,PASSED
+Statement - url = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(),Firefox 61.0,,2018-08-21 20:06:35,2018-08-21 20:06:36,0.046s,PASSED
+maximizeWindow,Firefox 61.0,,2018-08-21 20:06:36,2018-08-21 20:06:39,3.539s,PASSED
+"Statement - url.contentEquals(""https://www.fashmates.com00/"")",Firefox 61.0,,2018-08-21 20:06:39,2018-08-21 20:06:39,0.001s,PASSED
+"Statement - println(""success"")",Firefox 61.0,,2018-08-21 20:06:39,2018-08-21 20:06:39,0.015s,PASSED
+waitForElementVisible,Firefox 61.0,,2018-08-21 20:06:39,2018-08-21 20:06:39,0.147s,PASSED
+closeBrowser,Firefox 61.0,,2018-08-21 20:06:39,2018-08-21 20:06:40,0.511s,PASSED

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>demo project</description>
+   <name>test project</name>
+   <tag></tag>
+   <UUID>3078c415-5542-4f48-b353-608b98cf9199</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

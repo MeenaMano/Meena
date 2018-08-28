@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Sample excecution,,,2018-08-21 20:04:57,2018-08-21 20:05:27,29.896s,FAILED
+,,,,,,
+Test Cases/sign in/simple sign in,,sign using the existing account,2018-08-21 20:04:58,2018-08-21 20:05:26,27.535s,FAILED
+openBrowser,,,2018-08-21 20:04:59,2018-08-21 20:05:26,26.672s,FAILED

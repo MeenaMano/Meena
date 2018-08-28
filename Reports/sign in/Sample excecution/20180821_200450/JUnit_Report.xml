@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Sample excecution" time="74" tests="1" failures="0" errors="0">
+   <testsuite name="Sample excecution" tests="1" failures="0" errors="0" time="74" timestamp="2018-08-21 20:04:57" hostname="user24 - casp191115b-PC.tts.in" id="Test Suites/sign in/Sample excecution">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\user24\\Katalon Studio\\test project\\Reports\\sign in\\Sample excecution\\20180821_200450"/>
+         <property name="logFiles" value="C:\\Users\\user24\\Katalon Studio\\test project\\Reports\\sign in\\Sample excecution\\20180821_200450\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="user24 - casp191115b-PC.tts.in"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.6.0.1"/>
+         <property name="browser" value="Chrome 68.0.3440.106"/>
+         <property name="hostAddress" value="192.168.1.101"/>
+         <property name="sessionId" value="a00f9ec8797495e52bcdfc5312d61918"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/sign in/simple sign in" classname="Test Cases/sign in/simple sign in" status="PASSED">
+         <system-out><![CDATA[2018-08-21 20:05:00 - [TEST_CASE][PASSED] - Test Cases/sign in/simple sign in: Test Cases/sign in/simple sign in
+
+2018-08-21 20:05:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'https://www.fashmates.com/'
+
+2018-08-21 20:06:05 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.fashmates.com/'
+
+2018-08-21 20:06:05 - [TEST_STEP][PASSED] - Statement - url = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getUrl(): Current window's url is: 'https://www.fashmates.com/'
+
+2018-08-21 20:06:05 - [MESSAGE][PASSED] - Current window's url is: 'https://www.fashmates.com/'
+
+2018-08-21 20:06:05 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-08-21 20:06:07 - [MESSAGE][PASSED] - Current window maximized
+
+2018-08-21 20:06:07 - [TEST_STEP][PASSED] - Statement - url.contentEquals("https://www.fashmates.com00/"): null
+
+2018-08-21 20:06:07 - [TEST_STEP][PASSED] - Statement - println("success"): null
+
+2018-08-21 20:06:07 - [TEST_STEP][PASSED] - waitForElementVisible: Object 'Object Repository/landing page/landing page cover image' is visible
+
+2018-08-21 20:06:09 - [MESSAGE][PASSED] - Object 'Object Repository/landing page/landing page cover image' is visible
+
+2018-08-21 20:06:09 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-21 20:06:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-08-21 20:04:57 - [TEST_SUITE][PASSED] - Sample excecution: Test Cases/sign in/simple sign in]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
