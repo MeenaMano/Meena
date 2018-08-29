@@ -53,5 +53,5 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('All Items/Select image'))
 
-WebUI.dragAndDropByOffset(findTestObject(null), 50, 20)
+WebUI.dragAndDropToObject(findTestObject('All Items/Select image'), findTestObject('All Items/Drag image - Destination'))
 
